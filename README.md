@@ -1,5 +1,4 @@
 # Challenge_amigo_Secreto
-# Amigo Secreto
 
 ## Descrição do Projeto
 O projeto "Amigo Secreto" é uma aplicação web simples que permite adicionar nomes de amigos a uma lista e realizar um sorteio para determinar um participante aleatório. O principal objetivo deste projeto é fortalecer as habilidades em lógica de programação.
