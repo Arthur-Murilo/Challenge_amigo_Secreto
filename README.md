@@ -30,12 +30,5 @@ O projeto é composto pelos seguintes arquivos:
 6. O nome do amigo sorteado será exibido na tela.
 7. A lista de amigos será limpa após o sorteio.
 
-## Contribuição
-Se você deseja contribuir para este projeto, siga estas etapas:
-1. Faça um fork do repositório.
-2. Crie um branch para sua modificação: `git checkout -b minha-modificacao`.
-3. Realize as alterações e commit: `git commit -m "Minha melhoria"`.
-4. Envie suas alterações para o repositório remoto: `git push origin minha-modificacao`.
-5. Abra um Pull Request para revisão.
 
 
